@@ -1,0 +1,13 @@
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\bin\Debug\netcoreapp3.1\PATT_Simulator.exe
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\bin\Debug\netcoreapp3.1\PATT_Simulator.deps.json
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\bin\Debug\netcoreapp3.1\PATT_Simulator.runtimeconfig.json
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\bin\Debug\netcoreapp3.1\PATT_Simulator.runtimeconfig.dev.json
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\bin\Debug\netcoreapp3.1\PATT_Simulator.dll
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\bin\Debug\netcoreapp3.1\PATT_Simulator.pdb
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\obj\Debug\netcoreapp3.1\PATT_Simulator.csprojAssemblyReference.cache
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\obj\Debug\netcoreapp3.1\PATT_Simulator.AssemblyInfoInputs.cache
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\obj\Debug\netcoreapp3.1\PATT_Simulator.AssemblyInfo.cs
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\obj\Debug\netcoreapp3.1\PATT_Simulator.dll
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\obj\Debug\netcoreapp3.1\PATT_Simulator.pdb
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\steven.tan\source\repos\PATT_Simulator\PATT_Simulator\obj\Debug\netcoreapp3.1\PATT_Simulator.csproj.CopyComplete
